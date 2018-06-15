@@ -3,6 +3,7 @@
 
 [2018 컴퓨터 그래픽스 실습 1 강의 Final Project]   
 - DirectX11 Tutorial로 공부하며 구현한 기능들을 소개하는 영상입니다.
+- 네이버 포스터 링크 : https://blog.naver.com/bloodxsecter/221281176507
 - 기획 PPT 구글 드라이브 링크 : https://drive.google.com/open?id=17Yc4b0iDtQB0vikHhiXPbAkqlK0l3lqo
 - 실행파일 구글 드라이브 링크 : https://drive.google.com/open?id=1RqbDp0KCrmbGSMjqJUvvVRhjNDzH2l8I
 
